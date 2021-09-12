@@ -1,5 +1,5 @@
 ### Olá! Sou <a href='https://leandromliveira.github.io/'>Leandro Magalhães Oliveira.
-#### Atualmente e estou estudando para ser desenvolvedor👩🏻‍💻 
+#### Atualmente e estou estudando para ser desenvolvedor
 #### Bacharel em Engenharia Elétrica pela Universidade de Brasilia, Estudante de Desenvolvimento Web na Trybe. 
    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandromliveira&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> &nbsp;
