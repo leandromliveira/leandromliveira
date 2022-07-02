@@ -1,5 +1,4 @@
 ### Olá! Sou <a href='https://leandromliveira.github.io/'>Leandro Magalhães Oliveira.
-### <a href='https://www.linkedin.com/in/leandromliveira/'>
 #### Atualmente e estou estudando para ser desenvolvedor
 #### Bacharel em Engenharia Elétrica pela Universidade de Brasilia, Estudante de Desenvolvimento Web na Trybe. 
    
